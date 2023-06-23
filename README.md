@@ -17,7 +17,6 @@ Enters the source and destination cities for train booking.
 Selects the desired cities from the suggestion list.
 Clicks on the search button to initiate the search process.
 Includes delay for synchronization between steps.
-Provides options to capture screenshots and logs of the automation steps.
 Can be extended and customized for additional functionality and test scenarios.
 This project can be helpful for developers and automation testers who want to learn and practice web automation using Selenium WebDriver with Java. It provides a foundation for automating similar booking functionalities and can be enhanced based on specific project requirements.
 
